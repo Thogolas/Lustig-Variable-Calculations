@@ -1,0 +1,6 @@
+__pycache__/
+blast_results/
+*.csv
+*.fasta
+*.fasta.gz
+*.xml
