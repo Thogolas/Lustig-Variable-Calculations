@@ -4,3 +4,5 @@ blast_results/
 *.fasta
 *.fasta.gz
 *.xml
+.DS_Store
+.idea/
